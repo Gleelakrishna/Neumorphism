@@ -59,7 +59,7 @@ Import:
 Usage:
 ```html
 
-<!--You can choose between following themes:-->
+<!--You can choose between following themes: -->
 
 <!--white-->
 <!--silver-->
